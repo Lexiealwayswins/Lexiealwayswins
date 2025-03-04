@@ -21,7 +21,7 @@
 
 <div align="left">
   <a href="https://github.com/Lexiealwayswins">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Lexiealwayswins&theme=2077" height="180em" padding-right="3px"/>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Lexiealwayswins&theme=2077" height="180em" padding-right="10px"/>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Lexiealwayswins&theme=default" height="180em"/>
 </div>
 
