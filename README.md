@@ -20,7 +20,7 @@
 
 <div align="left">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Lexiealwayswins&theme=2077" height="180em" padding-right="10px"/>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Lexiealwayswins&theme=default" height="180em" border-radius="10px"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Lexiealwayswins&theme=default" height="180em" border-radius="50%"/>
 </div>
 
 
