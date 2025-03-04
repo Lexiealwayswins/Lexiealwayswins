@@ -14,6 +14,6 @@
 <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Mobile/header_logo.svg" alt="React Native" width="40" height="40"/>
 </p>
 <img align="left" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Lexiealwayswins&theme=2077" height="180em" />
-<img align="right" src="https://github-readme-activity-graph.vercel.app/graph?username=Lexiealwayswins&theme=default" height="180em"/>
+<img align="left" src="https://github-readme-activity-graph.vercel.app/graph?username=Lexiealwayswins&theme=default" height="180em"/>
 
 
