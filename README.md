@@ -19,7 +19,7 @@
 </div>
 
 <div align="left">
-  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Lexiealwayswins&theme=2077" height="180em" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Lexiealwayswins&theme=2077" height="180em" />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Lexiealwayswins&theme=default" height="180em" />
 </div>
 
