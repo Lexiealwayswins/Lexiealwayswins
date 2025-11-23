@@ -1,8 +1,20 @@
-<div>
-  <h1 align="left">Hi 👋, I'm Lexiealwayswins </h1> 
-</div>
+
+<h1 align="left">Hi 👋, I'm Lexie </h1> 
+<img align="right" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Lexiealwayswins&theme=vue" height="180em" />
+
+💼 Full Stack Software Engineer  
+
+🌍 Based in Canada, open to new opportunities  
+
+✨ Passionate about turning ideas into code 
+
+🌱 Enjoy building projects that make an impact   
+
+ 🛠 Tech I use daily:
+
+
+
 <div> 
-  <p align="left">
   <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/typescript-original.svg" alt="Typescript" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/javascript-original.svg" alt="Javascript" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Frontend/react-original-wordmark.svg" alt="React" width="40" height="40"/>
@@ -25,11 +37,10 @@
   </p>
 </div>
 
-<div align="left">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Lexiealwayswins&theme=vue" height="180em" />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Lexiealwayswins&theme=github-light" height="180em" />
+---
 
-</div>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Lexiealwayswins&theme=github-light"/>
+
 
 
 
