@@ -1,6 +1,5 @@
 <div>
   <h1 align="left">Hi 👋, I'm Lexiealwayswins </h1> 
-  <a href="https://github.com/Lexiealwayswins" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
 </div>
 <div> 
   <p align="left">
@@ -27,8 +26,9 @@
 </div>
 
 <div align="left">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Lexiealwayswins&theme=2077" height="180em" />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Lexiealwayswins&theme=default" height="180em" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Lexiealwayswins&theme=vue" height="180em" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Lexiealwayswins&theme=github-light" height="180em" />
+
 </div>
 
 
