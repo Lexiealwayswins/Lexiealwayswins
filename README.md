@@ -36,9 +36,9 @@
   </p>
 </div>
 
----
+<!-- --- -->
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Lexiealwayswins&theme=github-light"/>
+<!-- <img src="https://github-readme-activity-graph.vercel.app/graph?username=Lexiealwayswins&theme=github-light"/> -->
 
 
 
