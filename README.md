@@ -1,6 +1,6 @@
 
 <h1 align="left">Hi 👋, I'm Lexie </h1> 
-<img align="right" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Lexiealwayswins&theme=vue" height="180em" />
+<!-- <img align="right" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Lexiealwayswins&theme=vue" height="180em" /> -->
 
 💼 Full Stack Software Engineer  
 
